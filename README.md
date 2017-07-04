@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
-
-Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+run your project using Expo XDE
+use SHARE to run it on your own device or use DEVICE to run simulation using xCode for iOS or AndroidSDK for Android
 
 ## Table of Contents
 
